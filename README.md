@@ -1,4 +1,4 @@
-#Mondrian Art Generator (Java)
+# Mondrian Art Generator (Java)
 This Java assignment simulates the artistic style of Piet Mondrian by recursively subdividing a digital canvas into regions and filling them with bold, primary colors. Two distinct approaches—Basic and Complex—allow for the generation of minimalist grid-like artwork or intricate, randomized layouts.
 
 Objectives:
